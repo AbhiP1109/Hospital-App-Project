@@ -75,7 +75,7 @@ public class EncounterService {
 
 		if (dbEncounter != null) {
 			encounter.setId(encounterId);
-			responseStructure.setMessage("Updated Successfully");
+			responseStructure.setMessage("Update Successfully");
 			responseStructure.setStatus(HttpStatus.OK.value());
 			responseStructure.setData(encounterDao.updateEncounterById(encounter));
 
