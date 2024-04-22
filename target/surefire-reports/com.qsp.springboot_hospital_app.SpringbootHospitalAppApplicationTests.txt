@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.qsp.springboot_hospital_app.SpringbootHospitalAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.542 s - in com.qsp.springboot_hospital_app.SpringbootHospitalAppApplicationTests
