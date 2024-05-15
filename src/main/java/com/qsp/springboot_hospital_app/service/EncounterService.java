@@ -92,7 +92,7 @@ public class EncounterService {
 
 			encounterDao.deleteEncounterById(encounter);
 			encounterDao.deleteEncounterById(encounter);
-			responseStructure.setMessage("Found Successfully");
+			responseStructure.setMessage("Delete Successfully");
 			responseStructure.setStatus(HttpStatus.FOUND.value());
 			responseStructure.setData(encounter);
 
